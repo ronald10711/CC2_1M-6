@@ -15,4 +15,4 @@ CaesarCipher
 MultiplicarionTable- Simple multiplication table
 Calculator-Simple function
 Simple Sort- Arranging the number
-hangman-the bunos code 
+hangman-the bonus code 
